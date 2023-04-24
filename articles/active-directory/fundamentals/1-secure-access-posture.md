@@ -51,7 +51,9 @@ Organizations can start with highly managed controls to meet compliance targets,
 
 ## External-access security goals
 
-The goals of IT-governed and delegated access differ. The primary goals of IT-governed access are:
+The goals of IT-governed and delegated access differ. 
+
+The primary goals of IT-governed access are:
 
 * Meet governance, regulatory, and compliance (GRC) targets
 * High level of control over partner access to information about end users, groups, and other partners
